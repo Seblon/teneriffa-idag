@@ -186,7 +186,7 @@
 </url>
 <url>
 <loc>https://Seblon.github.io/teneriffa-idag/en-majsoendag-pa-el-teide.html</loc>
-<lastmod>2020-01-29T16:26:36+01:00</lastmod>
+<lastmod>2020-01-29T16:35:25+01:00</lastmod>
 <image:image>
 <image:loc>https://Seblon.github.io/teneriffa-idag/media/posts/12/teide-national-park.jpg</image:loc>
 <image:title><![CDATA[Teide nationalpark]]></image:title>
@@ -438,7 +438,11 @@
 </url>
 <url>
 <loc>https://Seblon.github.io/teneriffa-idag/los-cristianos-igar-och-idag.html</loc>
-<lastmod>2020-01-29T15:59:59+01:00</lastmod>
+<lastmod>2020-01-29T16:41:03+01:00</lastmod>
+<image:image>
+<image:loc>https://Seblon.github.io/teneriffa-idag/media/posts/11/tenerife-los-cristianos.jpg</image:loc>
+<image:title><![CDATA[Los Cristianos]]></image:title>
+</image:image>
 <image:image>
 <image:loc>https://Seblon.github.io/teneriffa-idag/media/posts/11/gallery/solbadare-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -487,9 +491,6 @@
 <image:loc>https://Seblon.github.io/teneriffa-idag/media/posts/11/gallery/piips-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://Seblon.github.io/teneriffa-idag/page/2/</loc>
 </url>
 <url>
 <loc>https://Seblon.github.io/teneriffa-idag/vi-blev-med-bar.html</loc>
